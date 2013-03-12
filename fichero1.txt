@@ -1,3 +1,5 @@
+eeeeeeee
+
 Esto es un fichero para GIT
 
 Y ahora tiene cambios. Y además lo editamos sin hacer commit.
